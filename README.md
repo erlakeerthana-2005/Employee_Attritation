@@ -43,7 +43,6 @@ The notebook follows these main steps:[1]
    - Identifying key drivers of attrition such as overtime, job role, monthly income, total working years, and work‑life balance indicators.  
    - Providing business‑oriented suggestions based on the patterns observed in EDA and model outputs.
 
-*(If your notebook uses specific models like Logistic Regression, Random Forest, etc., you can list them explicitly here.)*
 
 ## Key Findings
 
